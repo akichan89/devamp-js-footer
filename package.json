@@ -1,0 +1,25 @@
+{
+  "name": "version",
+  "version": "1.0.0",
+  "description": "This module allows for a dynamic footer generated for JS applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akichan89/devamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Autumn Shakespeare <autumn.e.gehring@gmail.com> (https://www.npmjs.com/~shakespeare89)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akichan89/devamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/akichan89/devamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
