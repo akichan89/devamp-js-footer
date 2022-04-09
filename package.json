@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/akichan89/devamp-js-footer#readme",
   "dependencies": {
-    "moment": "^2.27.0"
+    "moment": "^2.29.2"
   }
 }
